@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    padding-left: 50px;
   
 }
 #first-banner{
@@ -18,7 +19,7 @@ section{
 }
 .half-width{
     width: 50%;
-    padding-left: 4ch;
+    padding-right: 4ch;
 }
 .half-width img{
     width: 80%;
@@ -29,9 +30,16 @@ section{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 9px 35px;
+    padding: 2% 6%;
     border-radius: 50px;
     color: rgb(255, 225, 225);
     font-weight: 700;
-
 }
+#developer{
+    color: rgb(228, 110, 13);
+}
+#learned{
+    color: rgb(77, 90, 88);
+}
+
+
