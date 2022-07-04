@@ -14,7 +14,7 @@ section{
   
 }
 #first-banner{
-    background-image: url(pic/Gradient\ Background\ -\ Rajib\ Studio173\ -\ Copy.jpg);
+    background-image: url(pic/top-banner.png);
     background-repeat: no-repeat;
 }
 .half-width{
@@ -40,6 +40,15 @@ section{
 }
 #learned{
     color: rgb(77, 90, 88);
+}
+.half-width-2{
+    width: 50%;
+    padding-right: 5%;
+}
+#second-banner{
+    background-image: url(pic/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 
