@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -9,6 +10,11 @@ h1{
 }
 section{
     display: flex;
+  
+}
+#first-banner{
+    background-image: url(pic/Gradient\ Background\ -\ Rajib\ Studio173\ -\ Copy.jpg);
+    background-repeat: no-repeat;
 }
 .half-width{
     width: 50%;
