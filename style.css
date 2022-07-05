@@ -2,6 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
 }
+section{
+    height: 500px;
+    padding-bottom: 150px;}
 h1{
     font-size: 50px;
 }
@@ -26,6 +29,7 @@ h1{
 }
 #lorem{
     color: rgb(124, 89, 89);
+    
 }
 .link-button{
     text-decoration: none;
@@ -52,11 +56,23 @@ h1{
 }
 .half-width-3{
     width: 50%;
-    padding-left: 2%;
-    padding-right: 2%;
-    padding-bottom: 5%;
-    box-shadow: 10px 10px yellowgreen;
-
+    padding-left: 2%; 
+    padding-bottom: 2%;
+    box-shadow: 10px 10px 10px 10px rgb(128, 128, 128);
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 10px;
+    
 }
-
+#third-section{
+    background-image: url(Pic/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#border1{
+    border-left: 7px solid #f17949;
+}
+#border2{
+    border-left: 7px solid #364968;
+}
 
