@@ -17,7 +17,7 @@ h1{
   
 }
 .first-banner{
-    background-image: url(pic/top-banner.png);
+    background-image: url(Pic/top-banner.png);
     background-repeat: no-repeat;
 }
 .half-width{
@@ -50,7 +50,7 @@ h1{
     padding-right: 5%;
 }
 .second-banner{
-    background-image: url(pic/dream-bg.png);
+    background-image: url(Pic/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
